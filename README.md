@@ -24,11 +24,11 @@
 
 * ### 🔗 Contato e Redes:
 <div style="display: inline_block">
-  <a href="mailto:vicentemirandaoffice@gmail.com" target="_blank">
+  <a href="https//:vicentemirandaoffice@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="www.linkedin.com/in/carlosfilipevicentemiranda" target="_blank">
+  <a href="www.linkedin.com/in/carlosfilipevicentemiranda](https://www.linkedin.com/in/carlosfilipevicentemiranda/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
