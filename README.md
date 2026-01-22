@@ -31,6 +31,11 @@
   <a href="https://www.linkedin.com/in/carlosfilipevicentemiranda/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  Caso o mailto não responda: 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vicentemirandaoffice@gmail.com">
+      Enviar email
+  </a>
 </div>
 
 <picture align="center">
