@@ -14,7 +14,7 @@
   <img width="50" height="50" align="center" alt="css" src="https://devicon-website.vercel.app/api/css3/original.svg" />
   <img width="50" height="50" align="center" alt="js" src="https://devicon-website.vercel.app/api/javascript/original.svg" /> |
   <img width="50" height="50" align="center" alt="reactjs" src="https://devicon-website.vercel.app/api/react/original.svg" />
-  <img width="50" height="50" align="center" alt="tailwindcss" src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" /> |
+  <img width="50" height="50" align="center" alt="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" /> |
   <img width="50" height="50" align="center" alt="java" src="https://devicon-website.vercel.app/api/java/original.svg" />
   <img width="50" height="50" align="center" alt="delphi" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" />
   <img width="50" height="50" align="center" alt="sql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
