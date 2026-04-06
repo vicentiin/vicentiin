@@ -2,8 +2,8 @@
 
 * ### 📊 Algumas informações sobre minhas atividades:
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vicentiin&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentiin&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=vicentiin&theme=tokyonight&hide_border=true" />
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicentiin&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" /> -->
 </div>
 
 * ### 🌟 Onde eu brilho. Meus principais domínios:
